@@ -1,6 +1,6 @@
 ## Hi there 👋👋, I'm Dhayanandhan 
 
-### I'm a Infrastructure Engineer and passion towards Devops technologies
+### I'm an Infrastructure Analyst and passion towards Devops technologies
 
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
 - 🌱 I’m currently learning everything 🤣
